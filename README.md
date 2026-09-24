@@ -1,7 +1,5 @@
 # Hello👋, I'm Hadi Nauman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadinauman&label=Profile%20views&color=0e75b6&style=flat" alt="hadinauman" /> </p>
-
 * 🔭 I’m currently a Computer Science student at Trinity College Dublin
 * 🌱 I’m currently learning more about Software Engineering, Algorithms, Systems and AI
 
